@@ -36,7 +36,6 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-orm:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:6.0.8" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aspects:6.0.8" level="project" />
@@ -54,16 +53,12 @@
     <orderEntry type="library" name="Maven: jakarta.validation:jakarta.validation-api:3.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:3.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-json:3.0.6" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.2" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:3.0.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:10.1.8" level="project" />
     <orderEntry type="library" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.8" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-web:6.0.8" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.6" level="project" />
-    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.0.8" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:6.0.8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.springframework.boot:spring-boot-devtools:3.0.6" level="project" />
@@ -78,8 +73,8 @@
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:json-smart:2.4.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: net.minidev:accessors-smart:2.4.9" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.ow2.asm:asm:9.3" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Maven: jakarta.activation:jakarta.activation-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.activation:jakarta.activation-api:2.1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.assertj:assertj-core:3.23.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest:2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter:5.9.2" level="project" />
@@ -153,5 +148,76 @@
     <orderEntry type="library" name="Maven: javax.validation:validation-api:1.1.0.Final" level="project" />
     <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.5.0.Final" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml:classmate:1.5.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-config:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-config-client:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.10.6" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.10.6" level="project" />
+    <orderEntry type="library" name="Maven: io.micrometer:micrometer-core:1.10.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.latencyutils:LatencyUtils:2.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:6.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:6.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springdoc:springdoc-openapi-ui:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springdoc:springdoc-openapi-webmvc-core:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springdoc:springdoc-openapi-common:1.7.0" level="project" />
+    <orderEntry type="library" name="Maven: io.swagger.core.v3:swagger-core:2.2.9" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.14.2" level="project" />
+    <orderEntry type="library" name="Maven: io.swagger.core.v3:swagger-annotations:2.2.9" level="project" />
+    <orderEntry type="library" name="Maven: io.swagger.core.v3:swagger-models:2.2.9" level="project" />
+    <orderEntry type="library" name="Maven: org.webjars:swagger-ui:4.18.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-bus-amqp:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-starter-stream-rabbit:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-stream-binder-rabbit:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-stream-binder-rabbit-core:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-webflux:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-reactor-netty:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-webflux:6.0.8" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor.netty:reactor-netty:1.1.6" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor.netty:reactor-netty-core:1.1.6" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-unix-common:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler-proxy:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-socks:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-dns:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns-native-macos:osx-x86_64:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver-dns-classes-macos:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-classes-epoll:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.projectreactor.netty:reactor-netty-http:1.1.6" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.91.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http2:4.1.91.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.projectreactor.netty.incubator:reactor-netty-incubator-quic:0.1.6" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty.incubator:netty-incubator-codec-native-quic:linux-x86_64:0.0.39.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: io.netty.incubator:netty-incubator-codec-classes-quic:0.0.39.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-stream:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-function-context:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: net.jodah:typetools:0.6.2" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-function-core:4.0.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.22" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.7.22" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.22" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.22" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-amqp:3.0.6" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.amqp:spring-rabbit:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.amqp:spring-amqp:3.0.4" level="project" />
+    <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:5.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-amqp:6.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-jmx:6.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-bus:4.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-core:6.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-messaging:6.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.retry:spring-retry:2.0.1" level="project" />
   </component>
 </module>

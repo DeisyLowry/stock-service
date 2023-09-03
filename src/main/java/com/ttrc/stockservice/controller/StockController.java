@@ -30,7 +30,7 @@ public class StockController {
     }
 
 
-    @GetMapping("{id}")
+    @GetMapping("/{id}")
     public String getEmployee(@PathVariable("id") String stockSymbol){
         String localSymbol = stockSymbol;
         return "Inside the get all stocks by symbol Call " + localSymbol;
